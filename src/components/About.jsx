@@ -23,7 +23,7 @@ const About = () => {
             <p>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit.
               Aspernatur quisquam harum nam cumque temporibus explicabo dolorum
-              sapiente odio unde dolor?
+              sapiente odio unde dolor? updated2
             </p>
             <a href="#about" className="btn">
               read more
