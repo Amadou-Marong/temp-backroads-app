@@ -14,11 +14,11 @@ const About = () => {
             />
           </div>
           <article className="about-info">
-            <h3>explore the differences</h3>
+            <h3>explore the difference</h3>
             <p>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit.
               Aspernatur quisquam harum nam cumque temporibus explicabo dolorum
-              sapiente odio unde dolor?
+              sapiente odio unde dolor? updated
             </p>
             <p>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit.
